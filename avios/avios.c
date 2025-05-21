@@ -1,4 +1,4 @@
-#include "reg_log_sys.h"
+#include "secure_sys/reg_log_sys.h"
 
 
 int main(int argc, char** argv) {
